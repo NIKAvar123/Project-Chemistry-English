@@ -12,7 +12,7 @@ const slides = [
   { id: 3, src: img3, alt: "Introduction", file: "./public/ppts/ნავთობი ენერგო რესურსები 2.pdf" },
   { id: 4, src: img4, alt: "Main Sources of Pollution", file: "/ppts/ექსტრემალური კლიმატი 2.pdf" },
   { id: 5, src: img5, alt: "Effect of Fertilizers", file: "/ppts/Deforrestation 2.pdf" },
-  { id: 6, src: img5, alt: "Effect of Fertilizers", file: "/ppts/Presentation1.pdf" },
+  { id: 6, src: img6, alt: "Effect of Fertilizers", file: "/ppts/Presentation1.pdf" },
 ];
 
 function App() {
